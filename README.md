@@ -2,7 +2,7 @@ Install
 =======
 
  * `vagrant up`
- * in (Jenkins Plugin Manager)[http://localhost:8080/pluginManager/available] install needed plugins:
+ * in [Jenkins Plugin Manager](http://localhost:8080/pluginManager/available) install needed plugins:
   * Git
   * GitHub
   * GitHub pull request builder
